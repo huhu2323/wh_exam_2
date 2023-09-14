@@ -1,0 +1,12 @@
+{
+  "name": "occurence",
+  "version": "1.0.0",
+  "description": "counts occurence of string based on input",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "james",
+  "license": "ISC",
+  "type": "module"
+}
